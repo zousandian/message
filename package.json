@@ -1,5 +1,5 @@
 {
-  "name": "vue-element-multiple-message",
+  "name": "@zousandian/vue-message",
   "description": "Element message clone, and did just a little change",
   "version": "1.0.1",
   "author": "vue-element-multiple",
